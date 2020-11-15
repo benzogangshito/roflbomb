@@ -18,5 +18,5 @@ def main():
 
 try:
          main()
-expect KeyboardInterrupt:
+except KeyboardInterrupt:
      main()
