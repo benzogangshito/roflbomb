@@ -1,7 +1,7 @@
 import os
 import time
 banner = '''
-    ____    coder: @benzogangshito 
+  ____    coder: @benzogangshito 
 →_→ |Ermux         ←_←
 →_→ |   |\  /|     ←_←
 →_→ |   | \/ |ozga ←_←      
