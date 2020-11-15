@@ -1,1 +1,2 @@
-# VzlomTelegramm
+# cd VzlomTeleg
+python VzlomTeleg.py
