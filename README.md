@@ -1,2 +1,3 @@
-# cd VzlomTeleg
-python VzlomTeleg.py
+# roflbomb
+cd roflbomb
+python roflbomb.py
